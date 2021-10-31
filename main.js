@@ -1,4 +1,4 @@
-canvas="myCanvas";
+canvas=document.getElementById("myCanvas");
 var last_position_of_x, last_position_of_y;
 
 
